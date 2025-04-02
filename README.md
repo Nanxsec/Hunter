@@ -7,3 +7,7 @@ Veja se um nome de usuário ou determinado email tem conta em tal site!<br>
      git clone https://github.com/Nanxsec/Hunter
      cd Hunter
      python3 hunter.py
+
+# Saída:
+
+- [X] Toda a saída é salva em um arquivo.txt
