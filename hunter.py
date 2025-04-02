@@ -10,17 +10,8 @@ from urls import *
 from emails import *
 from hunter_style import *
 
-# bibliotecas que estarei utilizando no decorrer do desenvolvimento!
-
-# Atualmente estou desenvolvendo e aprimorando a primeira parte: buscas por nomes de usuários!
-
 os.system("cls")
 Baner()
-
-# Script em desenvolvimento
-# Tem muito mais opções para ser adicionada
-# No final você poderá buscar por: nome de usuário, email, telefone e cpf, mapeando assim tudo que tiver cadastrado!
-
 # Script sendo escrito por: Nano
 print("""
 \033[1;34mMenu:\n\033[m
