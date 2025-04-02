@@ -240,7 +240,7 @@ async def CheckSitesByEmail(email,armaz=False):
 		if lastpass.status_code == 200:
 			resultado_lastpass = lastpass.text
 			if resultado_lastpass != "ok":
-				print("\033[1;32m[+]\033[m \033[1mLastpass.com\033[m")
+				print("\033[1;32m[+]\033[m \033[1;32mLastpass.com\033[m")
 				emails.append("Lastpass.com")
 			else:
 				pass
